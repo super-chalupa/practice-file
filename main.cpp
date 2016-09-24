@@ -18,5 +18,4 @@ int main()
 int luckyNum()
 {
     return 5;
-
 }
